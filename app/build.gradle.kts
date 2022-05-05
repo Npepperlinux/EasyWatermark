@@ -79,7 +79,7 @@ dependencies {
     implementation("com.google.dagger:hilt-android:2.40.4")
     implementation("androidx.asynclayoutinflater:asynclayoutinflater:1.0.0")
     kapt("com.google.dagger:hilt-compiler:2.40.4")
-    implementation("com.github.bumptech.glide:glide:4.13.1")
+    implementation("com.github.bumptech.glide:glide:4.13.2")
     kapt("com.github.bumptech.glide:compiler:4.13.1")
     implementation("org.jetbrains.kotlin:kotlin-stdlib:1.6.21")
     implementation("androidx.appcompat:appcompat:1.4.1")
